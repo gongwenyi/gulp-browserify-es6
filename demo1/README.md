@@ -1,4 +1,4 @@
-# ES6 + Babel + Browserify + Gulp demo project
+# Gulp + Browserify 搭建 ES6 前端开发环境
 
 使用gulp+browserify搭建es6前端开发环境
 
